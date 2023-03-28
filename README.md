@@ -12,7 +12,6 @@ A Mechatronics Engineer specialized in Embedded Systems who decided to wake up s
 * 🚀  I'm currently working on [Upgrading Bright Brand E-Commerce](http://brightbrand.abdelrhmanbakr.com)
 * 🧠  I'm learning Next.JS
 * 🤝  I'm open to collaborating on Big Full MERN Stack Projects or React.JS Projects.
-* ⚡  I left my college graduation field ( Embedded Systems ) just to follow my passion to become a Web Developer.
 
 ### Skills
 
